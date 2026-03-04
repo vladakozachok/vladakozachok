@@ -25,16 +25,14 @@
 
 ### Highlights
 
-🩺 **[AngelCare](https://angelcares.vercel.app/)**  
-A full-stack clinical decision support prototype. LLM reasoning, with backend guardrails for reliability.
 
-🧩 **[3D Asset Similarity](https://github.com/vladakozachok/ReConV2)**  
+🧩 **[3D Asset Similarity]**  
 Distributed pipeline using Ray. Scaled across ~50 nodes to process 40k+ assets with fault-tolerant batch processing.
 
 🌽 **Agrobot Perception**  
 Real-time computer vision on edge hardware, with C++ optimisations to reduce inference latency on Jetson.
 
-⚽ **[Thunderbots](https://github.com/vladakozachok/Software)**  
+⚽ **[Thunderbots]**  
 Robotics control software, including gradient-descent motion optimisation for autonomous robot behaviour.
 
 🚗 **[Self-driving Car – Engineering Physics Robot Competition](https://github.com/andyluo22/ENPH353_Competition)**  
