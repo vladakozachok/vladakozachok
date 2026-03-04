@@ -24,9 +24,11 @@
 ---
 
 ### Highlights
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b75f708e-5bfa-402c-9a05-47aa8ef3011d" />
- **[Mini AI Village](https://github.com/vladakozachok/mini-ai-village.git)**  
+🏡 **[Mini AI Village](https://github.com/vladakozachok/mini-ai-village.git)**  
 Collaborative setup for multiple AI agents to coordinate on a given goal. 
+
+🏡 **[LoRA Finetuning](https://github.com/vladakozachok/LoRA-finetuning.git)**  
+Repo for finetuning LLM with LoRA. 
 
 🧩 **3D Asset Similarity**  
 Distributed pipeline using Ray. Scaled across ~50 nodes to process 40k+ assets with fault-tolerant batch processing.
