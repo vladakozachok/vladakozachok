@@ -1,6 +1,6 @@
 <!-- Profile README: vladakozachok/vladakozachok -->
 
-<h1 align="center">Vladyslava Kozachok 👋</h1>
+<h1 align="center">Vladyslava Kozachok</h1>
 
 <p align="center">
   Engineering Physics student at UBC working on software systems, machine learning, and robotics.
@@ -26,13 +26,13 @@
 ### Highlights
 
 
-🧩 **[3D Asset Similarity]**  
+🧩 **3D Asset Similarity**  
 Distributed pipeline using Ray. Scaled across ~50 nodes to process 40k+ assets with fault-tolerant batch processing.
 
 🌽 **Agrobot Perception**  
 Real-time computer vision on edge hardware, with C++ optimisations to reduce inference latency on Jetson.
 
-⚽ **[Thunderbots]**  
+⚽ **Thunderbots**  
 Robotics control software, including gradient-descent motion optimisation for autonomous robot behaviour.
 
 🚗 **[Self-driving Car – Engineering Physics Robot Competition](https://github.com/andyluo22/ENPH353_Competition)**  
